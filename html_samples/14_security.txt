@@ -1,0 +1,4 @@
+<div onclick="alert('XSS')">
+  <script>alert("hack")</script>
+  <a href="javascript:evil()">Click</a>
+</div>

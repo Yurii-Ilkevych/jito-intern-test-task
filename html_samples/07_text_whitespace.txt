@@ -1,0 +1,8 @@
+<div>
+    Hello      world
+    
+    <span>   spaced   text   </span>
+    
+    Multiline
+    text
+</div>

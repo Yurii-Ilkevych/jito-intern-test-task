@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+
+<!-- normal comment -->
+
+<!-- <div>fake html</div> -->
+
+<!-- unclosed comment
+
+<div>After comment</div>

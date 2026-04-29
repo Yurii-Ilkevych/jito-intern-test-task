@@ -1,0 +1,3 @@
+<DIV>
+  <Span>Mixed CASE</Span>
+</DIV>

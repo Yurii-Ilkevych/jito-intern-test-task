@@ -1,0 +1,6 @@
+<div>
+  &lt;div&gt;
+  &nbsp;
+  &#169;
+  &#x1F600;
+</div>

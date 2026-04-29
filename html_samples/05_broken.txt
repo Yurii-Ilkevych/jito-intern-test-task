@@ -1,0 +1,12 @@
+<div>
+  <span>Unclosed
+</div>
+
+<p><div>Wrong nesting</p></div>
+
+<div
+  Missing bracket
+
+</div></span>
+
+Random text outside root

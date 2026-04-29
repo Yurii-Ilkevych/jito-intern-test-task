@@ -1,0 +1,12 @@
+<script>
+  const str = "<div>not a tag</div>";
+  const tricky = "</script>";
+</script>
+
+<style>
+  body { content: "<div>"; }
+</style>
+
+<textarea>
+  <div>should not parse</div>
+</textarea>

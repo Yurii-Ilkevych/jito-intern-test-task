@@ -1,0 +1,7 @@
+<div>
+  <img src="image.jpg">
+  <img src="image.jpg" />
+  <br>
+  <input type="text" disabled>
+  <meta charset="UTF-8">
+</div>

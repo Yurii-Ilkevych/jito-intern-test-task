@@ -1,0 +1,13 @@
+<div 
+  class="btn primary"
+  id='test'
+  type=text
+  disabled
+  empty=""
+  data-value="123"
+  class="duplicate"
+  malformed="test
+  noValue=
+>
+  Attributes test
+</div>
