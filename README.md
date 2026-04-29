@@ -9,6 +9,11 @@ It follows a **stream-based parsing approach**, inspired by how browsers process
 
 ---
 
+## 🚀 Live Demo
+
+You can view the working demo here:  
+👉 https://yurii-ilkevych.github.io/jito-intern-test-task/
+
 ## Key Features
 
 * ✅ Custom **Finite State Machine (FSM) tokenizer**
